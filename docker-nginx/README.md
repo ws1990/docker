@@ -26,5 +26,4 @@ docker run --name nginx -p 80:80 -v /conf/nginx/nginx.conf:/etc/nginx/nginx.conf
 ```
 
 ## 参考
-[nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx)</br>
-[阿里镜像](https://cr.console.aliyun.com/images/cn-hangzhou/wangsong/nginx-with-echo/detail)
+[nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx)
